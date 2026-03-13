@@ -11,7 +11,7 @@ This repository contains my structured notes, code experiments, and explanations
 
 | Chapter | Topic | Notes |
 |------|------|------|
-| 1 | The Machine Learning Landscape | [Open](./Chapter-01-ML-Landscape) |
+| 1 | The Machine Learning Landscape | [Open]([./Chapter-01-ML-Landscape](https://github.com/debjganguly/book_hands-on-machine-learning/tree/25f896a711be29388557ceecdce0d1bd8e7766cc/Ch1.%20The%20Machine%20Learning%20Landscape)) |
 | 2 | End-to-End Machine Learning Project | [Open](./Chapter-02-End-to-End-ML-Project) |
 | 3 | Classification | [Open](./Chapter-03-Classification) |
 | 4 | Training Models | [Open](./Chapter-04-Training-Models) |
